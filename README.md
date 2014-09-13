@@ -2,6 +2,7 @@ Web dev tools 101
 =================
 
 CodeHub Bristol: JavaScript 1-day workshop
+http://www.meetup.com/CodeHub-Bristol/events/196402012/
 
 Introduction
 ------------
