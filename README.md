@@ -9,8 +9,8 @@ Introduction
 
 http://www.slideshare.net/assetweb/web-devtools101-39039848
 
-Suggestions
------------
+Sharing tips
+------------
 
 http://padlet.com/assetweb/suggestions
 
