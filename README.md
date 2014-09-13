@@ -7,7 +7,7 @@ http://www.meetup.com/CodeHub-Bristol/events/196402012/
 Introduction
 ------------
 
-ADD SLIDE SHARE LINK
+http://www.slideshare.net/assetweb/web-devtools101-39039848
 
 Suggestions
 -----------
